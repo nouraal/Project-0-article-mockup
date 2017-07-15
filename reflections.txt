@@ -1,0 +1,29 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+
+  
+* What new skills have you learned?
+ 
+  i learned a lot of the easy skill that will help my to do my web and it's very Important like:
+- <img> element.
+-  <a> element for hyperlink.
+- <style> element.
+- <header> element.
+-  <p> element.
+and Etc... 
+
+* What has been easy?
+  
+ the Main element and hyperlink, img , list  and a lot of easy elements.
+It was easy to learn and remember it.
+
+* What has been difficult?
+  
+Inline text semantics it's a lot of style to the word and confusing littel bit :) .
+
+
+* How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+
+Your response goes here!
+I used what I learned from the course, the easy methods and tried to use it, for the future i will   try to use tools that will make my work more professional.
